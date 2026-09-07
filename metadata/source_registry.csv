@@ -1,0 +1,10 @@
+source_key,source_title,role,doi,license_status,public_release_decision,notes
+plantvillage,PlantVillage,maize disease semantics,10.3389/fpls.2016.01419,exact image-package terms pending,hold,"Match every sample to the exact downloaded package before redistribution"
+plantdoc,PlantDoc,field-style plant disease semantics,10.1145/3371158.3371196,official repository indicates CC BY 4.0,conditional,"Retain attribution license link and modification notice"
+ip102,IP102,insect pest semantics,10.1109/CVPR.2019.00899,redistribution permission pending,hold,"Prefer source IDs official download instructions and reconstruction metadata"
+gopro,GoPro deblurring dataset,real blur patterns and pairs,10.1109/CVPR.2017.35,dataset-specific terms pending,hold,"Do not infer image redistribution rights from unrelated GoPro terms"
+dense_haze,Dense-Haze,real dense-haze pairs,10.1109/ICIP.2019.8803046,benchmark redistribution terms pending,hold,"Provide official download instructions unless mirroring is expressly permitted"
+nh_haze,NH-HAZE,real non-homogeneous haze pairs,10.1109/CVPRW50498.2020.00230,benchmark redistribution terms pending,hold,"Provide official download instructions unless mirroring is expressly permitted"
+sid,See-in-the-Dark,real low-light raw and reference pairs,10.1109/CVPR.2018.00347,dataset image terms require separate verification,hold,"The code repository license must not automatically be applied to all dataset images"
+spa_data,SPA-Data,real rain and rain-free pairs,10.1109/CVPR.2019.01255,verify license in exact official package,hold,"Retain all required notices if redistribution is confirmed"
+
