@@ -1,0 +1,52 @@
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+*token*
+*credential*
+
+# Model weights and exported networks
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.engine
+checkpoints/
+weights/
+pretrained/
+
+# Private implementation and experiment state
+private/
+unreleased/
+runs/
+wandb/
+logs/
+*.log
+
+# Dataset payloads are opt-in after provenance review
+data/
+dataset/
+datasets/
+archives/
+raw/
+processed/
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# Python and operating-system files
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+
