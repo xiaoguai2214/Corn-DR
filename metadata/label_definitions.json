@@ -1,0 +1,37 @@
+{
+  "schema_version": "0.1-draft",
+  "annotation_type": "multi-label",
+  "labels": [
+    {
+      "id": "RAIN",
+      "name": "Rain",
+      "description": "Rain streaks or rain-like directional interference."
+    },
+    {
+      "id": "FOG",
+      "name": "Fog or haze",
+      "description": "Fog- or haze-like atmospheric degradation."
+    },
+    {
+      "id": "BLUR",
+      "name": "Blur",
+      "description": "Motion blur, defocus blur, or related loss of sharpness."
+    },
+    {
+      "id": "LOW",
+      "name": "Low illumination",
+      "description": "Low-light degradation with reduced visibility or dynamic range."
+    },
+    {
+      "id": "OCCL",
+      "name": "Local occlusion",
+      "description": "Local anomalies such as droplets, water stains, strong specular coverage, or irregular occluders."
+    }
+  ],
+  "notes": [
+    "Labels are non-exclusive and may co-occur.",
+    "Restoration-pair coverage is centered on RAIN, FOG, BLUR, LOW, and their combinations.",
+    "This draft must be matched to the recovered experimental manifest before release."
+  ]
+}
+
