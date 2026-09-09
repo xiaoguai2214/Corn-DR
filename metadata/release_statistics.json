@@ -1,0 +1,25 @@
+{
+  "release": "v1.0.0",
+  "scale": 2,
+  "samples": {
+    "train": 12083,
+    "validation": 570,
+    "test": 400,
+    "total": 13053
+  },
+  "component_file_counts": {
+    "high_resolution_targets": 13053,
+    "degraded_inputs_x2": 13053,
+    "clean_low_resolution_references_x2": 13053,
+    "json_annotations": 13053,
+    "local_occlusion_masks": 12470
+  },
+  "labels": ["RAIN", "FOG", "BLUR", "LOW", "OCCL"],
+  "manifest_records": {
+    "train_all_12083.jsonl": 12083,
+    "val_all_570.jsonl": 570,
+    "val_standard_320.jsonl": 320,
+    "val_hard_250.jsonl": 250,
+    "test_hard_400.jsonl": 400
+  }
+}

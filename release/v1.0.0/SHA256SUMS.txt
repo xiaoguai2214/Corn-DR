@@ -1,0 +1,13 @@
+56509f118c7421cda6c3131ad2c18e2c523af7858902de867f1164fedd776215  Corn-DR-v1.0-annotations-and-manifests.tar.gz
+f10773b25bc3973c774f94395cf46a67aaaace64e210ea2d3b65dbeea3b97b1b  Corn-DR-v1.0-clean_lr_x2.tar.part-00
+3a3de9bdb34ca44d196eea06cb54aaf2ed225387ddb7ea1ddebe58e93030d1cf  Corn-DR-v1.0-clean_lr_x2.tar.part-01
+165bb592d8c518a52d5cf8aaca7541485cbf5cc2db0da400244fa163ca5dd730  Corn-DR-v1.0-images.tar.part-00
+28b35523f77851bdde6eaf71a17866b6084815819cf2bb6e70c303d304cdd232  Corn-DR-v1.0-images.tar.part-01
+a41084000b95f5b9faf8f83d07b83cfff81fee165ac86d88cce2782797f50362  Corn-DR-v1.0-images.tar.part-02
+a3a7dec7438081af895b4354ad61e79908a2b70719d965776613b8b3c7f6d1b3  Corn-DR-v1.0-images.tar.part-03
+cc6728711cb0da819f5af10b733670032caf4ede0c970e7a3c9c98ddfdc366df  Corn-DR-v1.0-images.tar.part-04
+720b75a99dd3f0702b2b1d818759c3340930bc6f7fab5e67d7d71a1fdc4510ee  Corn-DR-v1.0-images.tar.part-05
+e58fb2f82ee76f2b24e338c5cce528e40fe0a9016fe8921ae5a3a45d9843975b  Corn-DR-v1.0-images.tar.part-06
+214569195eea5d5cfec61a00d7a53fb715136582410d49eff917ec6a0383da4b  Corn-DR-v1.0-tui_masks_x2.tar.gz
+9e56f8e3d9a6092bbb3abcfe1609bdf536d8a0a6249403a67b3fc6c1d1a085be  Corn-DR-v1.0-tui_x2.tar.part-00
+c54f6ccc182f73dc66a3528e5aca15dc53d50345e63fcaad10171ee1b2fc8cc3  Corn-DR-v1.0-tui_x2.tar.part-01

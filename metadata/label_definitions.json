@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.1-draft",
+  "schema_version": "1.0.0",
   "annotation_type": "multi-label",
   "labels": [
     {
@@ -31,7 +31,6 @@
   "notes": [
     "Labels are non-exclusive and may co-occur.",
     "Restoration-pair coverage is centered on RAIN, FOG, BLUR, LOW, and their combinations.",
-    "This draft must be matched to the recovered experimental manifest before release."
+    "Definitions correspond to the versioned v1.0.0 release manifests."
   ]
 }
-
