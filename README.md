@@ -15,12 +15,12 @@ Download every asset, verify it with `SHA256SUMS.txt`, and reconstruct the three
 multipart archives on macOS or Linux:
 
 ```bash
+shasum -a 256 -c SHA256SUMS.txt
 cat Corn-DR-v1.0-images.tar.part-* | tar -xf -
 cat Corn-DR-v1.0-tui_x2.tar.part-* | tar -xf -
 cat Corn-DR-v1.0-clean_lr_x2.tar.part-* | tar -xf -
 tar -xzf Corn-DR-v1.0-tui_masks_x2.tar.gz
 tar -xzf Corn-DR-v1.0-annotations-and-manifests.tar.gz
-shasum -a 256 -c SHA256SUMS.txt
 ```
 
 Run the commands in an empty destination directory. The numbered parts of each

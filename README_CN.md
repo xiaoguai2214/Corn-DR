@@ -12,12 +12,12 @@ Corn-DR 是一个面向玉米病虫害图像多标签退化识别、图像复原
 macOS 或 Linux 的空目录中执行：
 
 ```bash
+shasum -a 256 -c SHA256SUMS.txt
 cat Corn-DR-v1.0-images.tar.part-* | tar -xf -
 cat Corn-DR-v1.0-tui_x2.tar.part-* | tar -xf -
 cat Corn-DR-v1.0-clean_lr_x2.tar.part-* | tar -xf -
 tar -xzf Corn-DR-v1.0-tui_masks_x2.tar.gz
 tar -xzf Corn-DR-v1.0-annotations-and-manifests.tar.gz
-shasum -a 256 -c SHA256SUMS.txt
 ```
 
 同一压缩包的全部编号分卷必须放在同一目录中，且不要修改文件名。
